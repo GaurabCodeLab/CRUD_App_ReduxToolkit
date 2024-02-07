@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//gaurabcodelab.github.io/CRUD_App_ReduxToolkit/static/css/main.e6c13ad2.css",
+    "main.js": "//gaurabcodelab.github.io/CRUD_App_ReduxToolkit/static/js/main.8da4178e.js",
+    "static/js/787.774594b4.chunk.js": "//gaurabcodelab.github.io/CRUD_App_ReduxToolkit/static/js/787.774594b4.chunk.js",
+    "index.html": "//gaurabcodelab.github.io/CRUD_App_ReduxToolkit/index.html",
+    "main.e6c13ad2.css.map": "//gaurabcodelab.github.io/CRUD_App_ReduxToolkit/static/css/main.e6c13ad2.css.map",
+    "main.8da4178e.js.map": "//gaurabcodelab.github.io/CRUD_App_ReduxToolkit/static/js/main.8da4178e.js.map",
+    "787.774594b4.chunk.js.map": "//gaurabcodelab.github.io/CRUD_App_ReduxToolkit/static/js/787.774594b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8da4178e.js"
+  ]
+}
